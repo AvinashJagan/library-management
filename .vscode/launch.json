@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LibraryMangementApplication<library>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.jagan.library.LibraryMangementApplication",
+            "projectName": "library",
+            "args": ""
+        }
+    ]
+}
